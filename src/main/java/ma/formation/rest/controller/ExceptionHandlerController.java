@@ -1,6 +1,6 @@
 package ma.formation.rest.controller;
-import ma.formations.rest.domaine.ErrorResponse;
-import ma.formations.rest.service.exception.BusinessException;
+import ma.formation.rest.domaine.ErrorResponse;
+import ma.formation.rest.service.exception.BusinessException;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;

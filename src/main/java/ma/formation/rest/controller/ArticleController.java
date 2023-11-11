@@ -2,9 +2,9 @@ package ma.formation.rest.controller;
 
 
 import jakarta.validation.Valid;
-import ma.formations.rest.domaine.ArticleDTO;
-import ma.formations.rest.service.IService;
-import ma.formations.rest.service.exception.BusinessException;
+import ma.formation.rest.domaine.ArticleDTO;
+import ma.formation.rest.service.service.model.IService;
+import ma.formation.rest.service.exception.BusinessException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;

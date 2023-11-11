@@ -2,11 +2,11 @@ package ma.formation.rest.service.service.model;
 
 import lombok.NoArgsConstructor;
 import ma.formation.rest.domaine.ArticleDTO;
-import ma.formations.rest.dao.IDao;
-import ma.formations.rest.domaine.ArticleConverter;
-import ma.formations.rest.domaine.ArticleDTO;
-import ma.formations.rest.service.exception.BusinessException;
-import ma.formations.rest.service.service.model.Article;
+import ma.formation.rest.dao.IDao;
+import ma.formation.rest.domaine.ArticleConverter;
+import ma.formation.rest.domaine.ArticleDTO;
+import ma.formation.rest.service.exception.BusinessException;
+import ma.formation.rest.service.service.model.Article;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
